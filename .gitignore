@@ -1,0 +1,10 @@
+/*.log
+/target
+/*-init.clj
+/resources/public/js/compiled
+out
+/.idea/
+/cljs-react-semantic-ui-example.iml
+/resources/public/js/compiled/
+/node_modules/
+/.nrepl-port
